@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsters-rodolex/static/css/main.5f361e03.chunk.css",
+    "main.js": "/monsters-rodolex/static/js/main.edd1f422.chunk.js",
+    "main.js.map": "/monsters-rodolex/static/js/main.edd1f422.chunk.js.map",
+    "runtime-main.js": "/monsters-rodolex/static/js/runtime-main.613e3a2c.js",
+    "runtime-main.js.map": "/monsters-rodolex/static/js/runtime-main.613e3a2c.js.map",
+    "static/js/2.96419cc7.chunk.js": "/monsters-rodolex/static/js/2.96419cc7.chunk.js",
+    "static/js/2.96419cc7.chunk.js.map": "/monsters-rodolex/static/js/2.96419cc7.chunk.js.map",
+    "index.html": "/monsters-rodolex/index.html",
+    "precache-manifest.0e506afd5377aad7d0d2c30a704d3a51.js": "/monsters-rodolex/precache-manifest.0e506afd5377aad7d0d2c30a704d3a51.js",
+    "service-worker.js": "/monsters-rodolex/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/monsters-rodolex/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.96419cc7.chunk.js.LICENSE.txt": "/monsters-rodolex/static/js/2.96419cc7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monsters-rodolex/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.613e3a2c.js",
+    "static/js/2.96419cc7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.edd1f422.chunk.js"
+  ]
+}
